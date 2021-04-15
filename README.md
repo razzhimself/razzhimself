@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @razzhimself
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning CSS,Html,JavaScript.
+- 🌱 I’m currently learning CSS,HTML,JavaScript.
 - 💞️ I’m looking to collaborate on cool web development projects.
-- 📫 How to reach me - @Raz57349857 on twitter.
+- 📫 How to reach me - @razzzhimself on twitter.
 
 
 <!---
