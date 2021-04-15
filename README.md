@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @razzhimself
+- 👋 Hi, I’m Raz!
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning CSS,HTML,JavaScript.
 - 💞️ I’m looking to collaborate on cool web development projects.
